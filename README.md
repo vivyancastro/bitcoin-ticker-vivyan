@@ -1,7 +1,7 @@
 # Bitcoin Ticker
 
 ## Goal
-An exercise of the usage of Cupertino and Material Widgets in parallel..
+An exercise of the usage of Cupertino and Material Widgets in parallel.
 
 ## The App
 An crypto currency price checking app.
